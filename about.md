@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Network blog under construction!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Network Consulting Engineer (CCIE RS/SP)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[techblog@deragis.ch](mailto:techblog@deragis.ch)
